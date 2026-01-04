@@ -20,6 +20,10 @@
 	"settings": {
 		// ESLint settings
 		"eslint.useFlatConfig": true,
+		// Explorer
+		"explorer.fileNesting.enabled": true,
+		"explorer.fileNesting.expand": true,
+		"explorer.incrementalNaming": "disabled",
 		// Git settings
 		"git.autofetch": true,
 		"git.confirmSync": false,
