@@ -1,9 +1,9 @@
 [submodule "audio-to-image-utils"]
 	path = audio-to-image-utils
 	url = git@github.com:Sounds-Designed/audio-to-image-utils.git
-[submodule "waveform-image-generator"]
-	path = waveform-image-generator
-	url = git@github.com:Sounds-Designed/waveform-image-generator.git
 [submodule "nuxt-inkthreadable"]
 	path = nuxt-inkthreadable
 	url = git@github.com:Sounds-Designed/nuxt-inkthreadable.git
+[submodule "waveform-image-generator"]
+	path = waveform-image-generator
+	url = git@github.com:Sounds-Designed/waveform-image-generator.git
