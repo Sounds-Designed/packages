@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Nuxt Shipping",
-			"path": "./nuxt-shipping"
+			"path": "./nuxt-shipping-rates"
 		},
 		{
 			"name": "Waveform Image Generator",
