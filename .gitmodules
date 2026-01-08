@@ -7,3 +7,6 @@
 [submodule "waveform-image-generator"]
 	path = waveform-image-generator
 	url = git@github.com:Sounds-Designed/waveform-image-generator.git
+[submodule "nuxt-shipping-rates"]
+	path = nuxt-shipping-rates
+	url = git@github.com:Sounds-Designed/nuxt-shipping-rates.git
