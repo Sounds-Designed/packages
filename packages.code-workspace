@@ -9,6 +9,10 @@
 			"path": "./nuxt-inkthreadable"
 		},
 		{
+			"name": "Nuxt Shipping",
+			"path": "./nuxt-shipping"
+		},
+		{
 			"name": "Waveform Image Generator",
 			"path": "./waveform-image-generator"
 		},
@@ -19,11 +23,11 @@
 	],
 	"settings": {
 		// ESLint settings
-		"eslint.useFlatConfig": true,
+		"eslint.useFlatConfig": false,
 		// Explorer
 		"explorer.fileNesting.enabled": true,
 		"explorer.fileNesting.expand": true,
-		"explorer.incrementalNaming": "disabled",
+		// "explorer.incrementalNaming": "disabled",
 		// Git settings
 		"git.autofetch": true,
 		"git.confirmSync": false,
@@ -41,7 +45,7 @@
 			"editor.defaultFormatter": "esbenp.prettier-vscode"
 		},
 		"[typescript]": {
-			"editor.defaultFormatter": "esbenp.prettier-vscode"
+			"editor.defaultFormatter": "vscode.typescript-language-features"
 		},
 		"[vue]": {
 			"editor.defaultFormatter": "Vue.volar"
