@@ -10,3 +10,9 @@
 [submodule "nuxt-waveform-image-generator"]
 	path = nuxt-waveform-image-generator
 	url = git@github.com:Sounds-Designed/nuxt-waveform-image-generator.git
+[submodule "nuxt-audio-utils"]
+	path = nuxt-audio-utils
+	url = git@github.com:Sounds-Designed/nuxt-audio-utils.git
+[submodule "audio-utils"]
+	path = audio-utils
+	url = git@github.com:Sounds-Designed/audio-utils.git
