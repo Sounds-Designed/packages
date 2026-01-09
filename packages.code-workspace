@@ -1,8 +1,16 @@
 {
 	"folders": [
 		{
+			"name": "Audio Utils",
+			"path": "./audio-utils"
+		},
+		{
 			"name": "Audio-to-Image Utils",
 			"path": "./audio-to-image-utils"
+		},
+		{
+			"name": "Nuxt Audio Utils",
+			"path": "./nuxt-audio-utils"
 		},
 		{
 			"name": "Nuxt Inkthreadable",
