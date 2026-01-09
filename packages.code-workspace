@@ -13,8 +13,8 @@
 			"path": "./nuxt-shipping-rates"
 		},
 		{
-			"name": "Waveform Image Generator",
-			"path": "./waveform-image-generator"
+			"name": "Nuxt Waveform Image Generator",
+			"path": "./nuxt-waveform-image-generator"
 		},
 		{
 			"name": "Root",
