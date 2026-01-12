@@ -28,3 +28,6 @@
 [submodule "nuxt-dials"]
 	path = nuxt-dials
 	url = git@github.com:Sounds-Designed/nuxt-dials.git
+[submodule "dials"]
+	path = dials
+	url = git@github.com:Sounds-Designed/dials.git
