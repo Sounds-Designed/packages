@@ -16,3 +16,12 @@
 [submodule "audio-utils"]
 	path = audio-utils
 	url = git@github.com:Sounds-Designed/audio-utils.git
+[submodule "nuxt-ui-gradient-picker"]
+	path = nuxt-ui-gradient-picker
+	url = git@github.com:Sounds-Designed/nuxt-ui-gradient-picker.git
+[submodule "nuxt-knob"]
+	path = nuxt-knob
+	url = git@github.com:Sounds-Designed/nuxt-knob.git
+[submodule "knob-heads"]
+	path = knob-heads
+	url = git@github.com:Sounds-Designed/knob-heads.git

@@ -9,6 +9,10 @@
 			"path": "./audio-to-image-utils"
 		},
 		{
+			"name": "Knob Heads",
+			"path": "./knob-heads"
+		},
+		{
 			"name": "Nuxt Audio Utils",
 			"path": "./nuxt-audio-utils"
 		},
@@ -17,12 +21,32 @@
 			"path": "./nuxt-inkthreadable"
 		},
 		{
+			"name": "Nuxt Knob",
+			"path": "./nuxt-knob"
+		},
+		{
 			"name": "Nuxt Shipping Rates",
 			"path": "./nuxt-shipping-rates"
 		},
 		{
+			"name": "Nuxt UI Gradient Picker",
+			"path": "./nuxt-ui-gradient-picker"
+		},
+		{
 			"name": "Nuxt Waveform Image Generator",
 			"path": "./nuxt-waveform-image-generator"
+		},
+		{
+			"name": "Nuxt UI",
+			"path": "../ui/src"
+		},
+		{
+			"name": "Reka UI",
+			"path": "../reka-ui/packages/core/src"
+		},
+		{
+			"name": "Vue Color Gradient Picker",
+			"path": "../vue-color-gradient-picker"
 		},
 		{
 			"name": "Root",
