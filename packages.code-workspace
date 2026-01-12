@@ -45,8 +45,8 @@
 			"path": "./nuxt-waveform-image-generator"
 		},
 		{
-			"name": "Nuxt UI",
-			"path": "../ui/src"
+			"name": "Root",
+			"path": "./"
 		},
 	],
 	"settings": {
