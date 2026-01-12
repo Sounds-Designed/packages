@@ -17,6 +17,10 @@
 			"path": "./nuxt-audio-utils"
 		},
 		{
+			"name": "Nuxt Dials",
+			"path": "./nuxt-dials"
+		},
+		{
 			"name": "Nuxt Inkthreadable",
 			"path": "./nuxt-inkthreadable"
 		},

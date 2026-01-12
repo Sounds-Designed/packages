@@ -25,3 +25,6 @@
 [submodule "knob-heads"]
 	path = knob-heads
 	url = git@github.com:Sounds-Designed/knob-heads.git
+[submodule "nuxt-dials"]
+	path = nuxt-dials
+	url = git@github.com:Sounds-Designed/nuxt-dials.git
