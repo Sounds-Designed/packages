@@ -48,18 +48,6 @@
 			"name": "Nuxt UI",
 			"path": "../ui/src"
 		},
-		{
-			"name": "Reka UI",
-			"path": "../reka-ui/packages/core/src"
-		},
-		{
-			"name": "Vue Color Gradient Picker",
-			"path": "../vue-color-gradient-picker"
-		},
-		{
-			"name": "Root",
-			"path": "."
-		}
 	],
 	"settings": {
 		// ESLint settings
