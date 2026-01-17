@@ -31,3 +31,6 @@
 [submodule "dials"]
 	path = dials
 	url = git@github.com:Sounds-Designed/dials.git
+[submodule "sound-ui"]
+	path = sound-ui
+	url = git@github.com:Sounds-Designed/sound-ui.git
