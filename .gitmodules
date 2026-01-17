@@ -34,3 +34,6 @@
 [submodule "sound-ui"]
 	path = sound-ui
 	url = git@github.com:Sounds-Designed/sound-ui.git
+[submodule "soundsters"]
+	path = soundsters
+	url = git@github.com:Sounds-Designed/soundsters.git
