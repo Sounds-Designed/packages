@@ -45,6 +45,10 @@
 			"path": "./nuxt-waveform-image-generator"
 		},
 		{
+			"name": "Redirect Service",
+			"path": "./redirects"
+		},
+		{
 			"name": "Soundsters",
 			"path": "./soundsters"
 		},

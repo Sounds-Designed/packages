@@ -37,3 +37,6 @@
 [submodule "soundsters"]
 	path = soundsters
 	url = git@github.com:Sounds-Designed/soundsters.git
+[submodule "redirects"]
+	path = redirects
+	url = git@github.com:Sounds-Designed/redirects.git
