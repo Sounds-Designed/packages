@@ -40,3 +40,6 @@
 [submodule "redirects"]
 	path = redirects
 	url = git@github.com:Sounds-Designed/redirects.git
+[submodule "nuxt-stripe"]
+	path = nuxt-stripe
+	url = git@github.com:Sounds-Designed/nuxt-stripe.git
